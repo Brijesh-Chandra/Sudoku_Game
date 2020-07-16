@@ -4,7 +4,7 @@
 
 
 
-## Usage
+## Summary
 Developed a web app for a timed Sudoku with variable levels of difficulty. The solved puzzle was generated using the backtracking algorithm. The web app was deployed on the cloud using Google Cloud Platform.
 
 
